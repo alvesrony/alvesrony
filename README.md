@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rony, estudante de engenharia e entusiasta em programação e tecnologia!
 
 - 🌱 Atualmente, estou me aprofundando na área de desenvolvimento web
-- 📫 Entre em contato: alvesrony.m@gmail.com
+- 📫 Entre em contato: alvesroniesley@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 ##
